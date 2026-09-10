@@ -48,14 +48,14 @@
         "Liga Femenina Clausura 2026": {
             "equipos": {
                 "Universitario": {
-                    "PJ": 6,
-                    "PG": 4,
+                    "PJ": 7,
+                    "PG": 5,
                     "PE": 1,
                     "PP": 1,
-                    "GF": 25,
-                    "GC": 4,
-                    "DG": 21,
-                    "PTS": 13
+                    "GF": 34,
+                    "GC": 7,
+                    "DG": 27,
+                    "PTS": 16
                 },
                 "Alianza Lima": {
                     "PJ": 7,
@@ -128,13 +128,13 @@
                     "PTS": 3
                 },
                 "CD Yanapuma": {
-                    "PJ": 6,
+                    "PJ": 7,
                     "PG": 1,
                     "PE": 0,
-                    "PP": 5,
-                    "GF": 5,
-                    "GC": 19,
-                    "DG": -14,
+                    "PP": 6,
+                    "GF": 8,
+                    "GC": 28,
+                    "DG": -20,
                     "PTS": 3
                 },
                 "FC Killas": {
@@ -685,6 +685,24 @@
                     "visitante": "Club UNSAAC",
                     "goles_visitante": 0,
                     "goleadoras_visitante": "",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 8",
+                    "fecha_partido": "05/09/2026",
+                    "hora": "15:15",
+                    "estadio": "Carlos Vidaurre Garcia",
+                    "local": "CD Yanapuma",
+                    "goles_local": 3,
+                    "goleadoras_local": "Gavi Gonzales, Gavi Gonzales, Even Pizango",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "Universitario",
+                    "goles_visitante": 9,
+                    "goleadoras_visitante": "Sofia Oxandabarat, Sofia Oxandabarat, Sofia Oxandabarat, Geraldine Cisneros, Pierina Nuñez, Pierina Nuñez, Luz Campoverde, Luz Campoverde, Valerie Gherson",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
