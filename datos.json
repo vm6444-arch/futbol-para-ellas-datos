@@ -98,13 +98,13 @@
                     "PTS": 10
                 },
                 "Flamengo FBC": {
-                    "PJ": 6,
+                    "PJ": 7,
                     "PG": 1,
                     "PE": 1,
-                    "PP": 4,
-                    "GF": 6,
-                    "GC": 12,
-                    "DG": -6,
+                    "PP": 5,
+                    "GF": 7,
+                    "GC": 14,
+                    "DG": -7,
                     "PTS": 4
                 },
                 "Club UNSAAC": {
@@ -118,14 +118,14 @@
                     "PTS": 1
                 },
                 "Defensores del Ilucán": {
-                    "PJ": 7,
-                    "PG": 1,
+                    "PJ": 8,
+                    "PG": 2,
                     "PE": 0,
                     "PP": 6,
-                    "GF": 5,
-                    "GC": 32,
-                    "DG": -27,
-                    "PTS": 3
+                    "GF": 7,
+                    "GC": 33,
+                    "DG": -26,
+                    "PTS": 6
                 },
                 "CD Yanapuma": {
                     "PJ": 7,
@@ -703,6 +703,24 @@
                     "visitante": "Universitario",
                     "goles_visitante": 9,
                     "goleadoras_visitante": "Sofia Oxandabarat, Sofia Oxandabarat, Sofia Oxandabarat, Geraldine Cisneros, Pierina Nuñez, Pierina Nuñez, Luz Campoverde, Luz Campoverde, Valerie Gherson",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 8",
+                    "fecha_partido": "06/09/2026",
+                    "hora": "13:00",
+                    "estadio": "Juan Maldonado",
+                    "local": "Defensores del Ilucán",
+                    "goles_local": 2,
+                    "goleadoras_local": "Alexa Aguilar, Birna Silva",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "Flamengo FBC",
+                    "goles_visitante": 1,
+                    "goleadoras_visitante": "Sarai Sanchez",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
