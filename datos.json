@@ -78,14 +78,14 @@
                     "PTS": 15
                 },
                 "FBC Melgar": {
-                    "PJ": 6,
-                    "PG": 4,
+                    "PJ": 7,
+                    "PG": 5,
                     "PE": 0,
                     "PP": 2,
-                    "GF": 20,
+                    "GF": 21,
                     "GC": 7,
-                    "DG": 13,
-                    "PTS": 12
+                    "DG": 14,
+                    "PTS": 15
                 },
                 "Carlos A. Mannucci": {
                     "PJ": 7,
@@ -138,13 +138,13 @@
                     "PTS": 3
                 },
                 "FC Killas": {
-                    "PJ": 6,
+                    "PJ": 7,
                     "PG": 2,
                     "PE": 0,
-                    "PP": 4,
+                    "PP": 5,
                     "GF": 4,
-                    "GC": 14,
-                    "DG": -10,
+                    "GC": 15,
+                    "DG": -11,
                     "PTS": 6
                 },
                 "Atlético Andahuaylas": {
@@ -649,6 +649,24 @@
                     "visitante": "FBC Melgar",
                     "goles_visitante": 3,
                     "goleadoras_visitante": "Raquel Vilcape, Raquel Vilcape, Raquel Vilcape",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 8",
+                    "fecha_partido": "04/09/2026",
+                    "hora": "14:00",
+                    "estadio": "CAR FBC MELGAR",
+                    "local": "FBC Melgar",
+                    "goles_local": 1,
+                    "goleadoras_local": "Margarita vasquez",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "FC Killas",
+                    "goles_visitante": 0,
+                    "goleadoras_visitante": "",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
