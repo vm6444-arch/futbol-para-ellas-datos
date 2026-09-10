@@ -58,14 +58,14 @@
                     "PTS": 16
                 },
                 "Alianza Lima": {
-                    "PJ": 7,
-                    "PG": 7,
+                    "PJ": 8,
+                    "PG": 8,
                     "PE": 0,
                     "PP": 0,
-                    "GF": 28,
+                    "GF": 30,
                     "GC": 2,
-                    "DG": 26,
-                    "PTS": 21
+                    "DG": 28,
+                    "PTS": 24
                 },
                 "Sporting Cristal": {
                     "PJ": 8,
@@ -148,13 +148,13 @@
                     "PTS": 6
                 },
                 "Atlético Andahuaylas": {
-                    "PJ": 6,
+                    "PJ": 7,
                     "PG": 4,
                     "PE": 2,
-                    "PP": 0,
+                    "PP": 1,
                     "GF": 10,
-                    "GC": 2,
-                    "DG": 8,
+                    "GC": 4,
+                    "DG": 6,
                     "PTS": 14
                 },
                 "FBC Mlegar": {
@@ -721,6 +721,24 @@
                     "visitante": "Flamengo FBC",
                     "goles_visitante": 1,
                     "goleadoras_visitante": "Sarai Sanchez",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 8",
+                    "fecha_partido": "06/09/2026",
+                    "hora": "15:00",
+                    "estadio": "Hugo Sotil, Sarai Sanchez",
+                    "local": "Alianza Lima",
+                    "goles_local": 2,
+                    "goleadoras_local": "Daniela Montoya, Emily Flores",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "Atlético Andahuaylas",
+                    "goles_visitante": 0,
+                    "goleadoras_visitante": "",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
