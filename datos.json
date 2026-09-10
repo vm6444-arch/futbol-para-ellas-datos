@@ -48,24 +48,24 @@
         "Liga Femenina Clausura 2026": {
             "equipos": {
                 "Universitario": {
-                    "PJ": 7,
+                    "PJ": 8,
                     "PG": 5,
                     "PE": 1,
-                    "PP": 1,
+                    "PP": 2,
                     "GF": 34,
-                    "GC": 7,
-                    "DG": 27,
+                    "GC": 9,
+                    "DG": 25,
                     "PTS": 16
                 },
                 "Alianza Lima": {
-                    "PJ": 7,
-                    "PG": 7,
+                    "PJ": 8,
+                    "PG": 8,
                     "PE": 0,
                     "PP": 0,
-                    "GF": 28,
+                    "GF": 30,
                     "GC": 2,
-                    "DG": 26,
-                    "PTS": 21
+                    "DG": 28,
+                    "PTS": 24
                 },
                 "Sporting Cristal": {
                     "PJ": 8,
@@ -721,6 +721,24 @@
                     "visitante": "Flamengo FBC",
                     "goles_visitante": 1,
                     "goleadoras_visitante": "Sarai Sanchez",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 8",
+                    "fecha_partido": "06/09/2026",
+                    "hora": "15:00",
+                    "estadio": "Hugo Sotil",
+                    "local": "Alianza Lima",
+                    "goles_local": 2,
+                    "goleadoras_local": "Daniela Montoya, Emily Flores",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "Universitario",
+                    "goles_visitante": 0,
+                    "goleadoras_visitante": "",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
