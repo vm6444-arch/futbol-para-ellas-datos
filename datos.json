@@ -68,14 +68,14 @@
                     "PTS": 21
                 },
                 "Sporting Cristal": {
-                    "PJ": 7,
-                    "PG": 5,
+                    "PJ": 8,
+                    "PG": 6,
                     "PE": 0,
                     "PP": 2,
-                    "GF": 19,
+                    "GF": 22,
                     "GC": 7,
-                    "DG": 12,
-                    "PTS": 15
+                    "DG": 15,
+                    "PTS": 18
                 },
                 "FBC Melgar": {
                     "PJ": 7,
@@ -108,13 +108,13 @@
                     "PTS": 4
                 },
                 "Club UNSAAC": {
-                    "PJ": 6,
+                    "PJ": 7,
                     "PG": 0,
                     "PE": 1,
-                    "PP": 5,
+                    "PP": 6,
                     "GF": 4,
-                    "GC": 12,
-                    "DG": -8,
+                    "GC": 15,
+                    "DG": -11,
                     "PTS": 1
                 },
                 "Defensores del Ilucán": {
@@ -665,6 +665,24 @@
                     "amarillas_local": "",
                     "rojas_local": "",
                     "visitante": "FC Killas",
+                    "goles_visitante": 0,
+                    "goleadoras_visitante": "",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 8",
+                    "fecha_partido": "05/09/2026",
+                    "hora": "10:00",
+                    "estadio": "La Florida",
+                    "local": "Sporting Cristal",
+                    "goles_local": 3,
+                    "goleadoras_local": "Giovanna Soares, Olenka Gutierrez, Tamara Alves",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "Club UNSAAC",
                     "goles_visitante": 0,
                     "goleadoras_visitante": "",
                     "asistencias_visitante": "",
