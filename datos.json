@@ -48,14 +48,14 @@
         "Liga Femenina Clausura 2026": {
             "equipos": {
                 "Universitario": {
-                    "PJ": 8,
-                    "PG": 6,
+                    "PJ": 9,
+                    "PG": 7,
                     "PE": 1,
                     "PP": 1,
-                    "GF": 39,
+                    "GF": 43,
                     "GC": 7,
-                    "DG": 32,
-                    "PTS": 19
+                    "DG": 36,
+                    "PTS": 22
                 },
                 "Alianza Lima": {
                     "PJ": 8,
@@ -138,13 +138,13 @@
                     "PTS": 3
                 },
                 "FC Killas": {
-                    "PJ": 8,
+                    "PJ": 9,
                     "PG": 3,
                     "PE": 0,
-                    "PP": 5,
+                    "PP": 6,
                     "GF": 7,
-                    "GC": 16,
-                    "DG": -9,
+                    "GC": 20,
+                    "DG": -13,
                     "PTS": 9
                 },
                 "Atlético Andahuaylas": {
@@ -863,6 +863,24 @@
                     "amarillas_local": "",
                     "rojas_local": "",
                     "visitante": "Club UNSAAC",
+                    "goles_visitante": 0,
+                    "goleadoras_visitante": "",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 10",
+                    "fecha_partido": "19/09/2026",
+                    "hora": "15:15",
+                    "estadio": "Campo Mar U",
+                    "local": "Universitario",
+                    "goles_local": 4,
+                    "goleadoras_local": "Pierina Núñez, Alesia García, Luz Campoverde, Luz Campoverde",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "FC Killas",
                     "goles_visitante": 0,
                     "goleadoras_visitante": "",
                     "asistencias_visitante": "",
