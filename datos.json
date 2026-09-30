@@ -58,23 +58,23 @@
                     "PTS": 22
                 },
                 "Alianza Lima": {
-                    "PJ": 8,
-                    "PG": 8,
+                    "PJ": 9,
+                    "PG": 9,
                     "PE": 0,
                     "PP": 0,
-                    "GF": 30,
+                    "GF": 32,
                     "GC": 2,
-                    "DG": 28,
-                    "PTS": 24
+                    "DG": 30,
+                    "PTS": 27
                 },
                 "Sporting Cristal": {
-                    "PJ": 9,
+                    "PJ": 10,
                     "PG": 7,
                     "PE": 0,
-                    "PP": 2,
+                    "PP": 3,
                     "GF": 24,
-                    "GC": 8,
-                    "DG": 16,
+                    "GC": 10,
+                    "DG": 14,
                     "PTS": 21
                 },
                 "FBC Melgar": {
@@ -901,6 +901,24 @@
                     "visitante": "Atlético Andahuaylas",
                     "goles_visitante": 1,
                     "goleadoras_visitante": "Ana Cahuana",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 10",
+                    "fecha_partido": "20/09/2026",
+                    "hora": "15:15",
+                    "estadio": "La Florida",
+                    "local": "Sporting Cristal",
+                    "goles_local": 0,
+                    "goleadoras_local": "",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "Alianza Lima",
+                    "goles_visitante": 2,
+                    "goleadoras_visitante": "Daniela Montoya, Nisa Marquínez",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
