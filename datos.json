@@ -118,13 +118,13 @@
                     "PTS": 1
                 },
                 "Defensores del Ilucán": {
-                    "PJ": 8,
+                    "PJ": 9,
                     "PG": 2,
                     "PE": 0,
-                    "PP": 6,
-                    "GF": 7,
-                    "GC": 33,
-                    "DG": -26,
+                    "PP": 7,
+                    "GF": 8,
+                    "GC": 36,
+                    "DG": -28,
                     "PTS": 6
                 },
                 "CD Yanapuma": {
@@ -138,14 +138,14 @@
                     "PTS": 3
                 },
                 "FC Killas": {
-                    "PJ": 7,
-                    "PG": 2,
+                    "PJ": 8,
+                    "PG": 3,
                     "PE": 0,
                     "PP": 5,
-                    "GF": 4,
-                    "GC": 15,
-                    "DG": -11,
-                    "PTS": 6
+                    "GF": 7,
+                    "GC": 16,
+                    "DG": -9,
+                    "PTS": 9
                 },
                 "Atlético Andahuaylas": {
                     "PJ": 8,
@@ -757,6 +757,24 @@
                     "visitante": "FBC Melgar",
                     "goles_visitante": 5,
                     "goleadoras_visitante": "Raquel Bilcape, Raquel Bilcape, Raquel Bilcape, Raquel Bilcape, María Quintero",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 8",
+                    "fecha_partido": "11/09/20226",
+                    "hora": "15:15",
+                    "estadio": "La Molina",
+                    "local": "FC Killas",
+                    "goles_local": 3,
+                    "goleadoras_local": "Noelia Lumbre, Catherinne Bringas, Mayra Agapito",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "Defensores del Ilucán",
+                    "goles_visitante": 1,
+                    "goleadoras_visitante": "Birna Silva",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
