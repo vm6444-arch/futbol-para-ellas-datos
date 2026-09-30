@@ -48,14 +48,14 @@
         "Liga Femenina Clausura 2026": {
             "equipos": {
                 "Universitario": {
-                    "PJ": 7,
-                    "PG": 5,
+                    "PJ": 8,
+                    "PG": 6,
                     "PE": 1,
                     "PP": 1,
-                    "GF": 34,
+                    "GF": 39,
                     "GC": 7,
-                    "DG": 27,
-                    "PTS": 16
+                    "DG": 32,
+                    "PTS": 19
                 },
                 "Alianza Lima": {
                     "PJ": 8,
@@ -98,13 +98,13 @@
                     "PTS": 10
                 },
                 "Flamengo FBC": {
-                    "PJ": 7,
+                    "PJ": 8,
                     "PG": 1,
                     "PE": 1,
-                    "PP": 5,
+                    "PP": 6,
                     "GF": 7,
-                    "GC": 14,
-                    "DG": -7,
+                    "GC": 19,
+                    "DG": -12,
                     "PTS": 4
                 },
                 "Club UNSAAC": {
@@ -811,6 +811,24 @@
                     "visitante": "Sporting Cristal",
                     "goles_visitante": 2,
                     "goleadoras_visitante": "Tamara Alves, Rubí Acosta",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 8",
+                    "fecha_partido": "12/09/2026",
+                    "hora": "13:15",
+                    "estadio": "Campo Mar",
+                    "local": "Universitario",
+                    "goles_local": 5,
+                    "goleadoras_local": "Pierina Núñez, Alesia García, Alesia García, Sofía Oxandabarat, Geraldine Cisneros",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "Flamengo FBC",
+                    "goles_visitante": 0,
+                    "goleadoras_visitante": "",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
