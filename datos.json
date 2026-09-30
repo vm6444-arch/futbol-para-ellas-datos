@@ -58,14 +58,14 @@
                     "PTS": 25
                 },
                 "Alianza Lima": {
-                    "PJ": 9,
-                    "PG": 9,
+                    "PJ": 10,
+                    "PG": 10,
                     "PE": 0,
                     "PP": 0,
-                    "GF": 32,
+                    "GF": 33,
                     "GC": 2,
-                    "DG": 30,
-                    "PTS": 27
+                    "DG": 31,
+                    "PTS": 30
                 },
                 "Sporting Cristal": {
                     "PJ": 10,
@@ -78,13 +78,13 @@
                     "PTS": 21
                 },
                 "FBC Melgar": {
-                    "PJ": 9,
+                    "PJ": 10,
                     "PG": 7,
                     "PE": 0,
-                    "PP": 2,
+                    "PP": 3,
                     "GF": 28,
-                    "GC": 9,
-                    "DG": 19,
+                    "GC": 10,
+                    "DG": 18,
                     "PTS": 21
                 },
                 "Carlos A. Mannucci": {
@@ -1009,6 +1009,24 @@
                     "visitante": "CD Yanapuma",
                     "goles_visitante": 2,
                     "goleadoras_visitante": "Daniela Carrillo, Sabrina Ramírez",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 11",
+                    "fecha_partido": "27/09/2026",
+                    "hora": "15:00",
+                    "estadio": "Hugo Sotil",
+                    "local": "Alianza Lima",
+                    "goles_local": 1,
+                    "goleadoras_local": "Neidy Romero",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "FBC Melgar",
+                    "goles_visitante": 0,
+                    "goleadoras_visitante": "",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
