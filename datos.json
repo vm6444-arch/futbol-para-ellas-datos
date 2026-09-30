@@ -78,14 +78,14 @@
                     "PTS": 18
                 },
                 "FBC Melgar": {
-                    "PJ": 7,
-                    "PG": 5,
+                    "PJ": 8,
+                    "PG": 6,
                     "PE": 0,
                     "PP": 2,
-                    "GF": 21,
-                    "GC": 7,
-                    "DG": 14,
-                    "PTS": 15
+                    "GF": 26,
+                    "GC": 8,
+                    "DG": 18,
+                    "PTS": 18
                 },
                 "Carlos A. Mannucci": {
                     "PJ": 7,
@@ -148,13 +148,13 @@
                     "PTS": 6
                 },
                 "Atlético Andahuaylas": {
-                    "PJ": 7,
+                    "PJ": 8,
                     "PG": 4,
                     "PE": 2,
-                    "PP": 1,
-                    "GF": 10,
-                    "GC": 4,
-                    "DG": 6,
+                    "PP": 2,
+                    "GF": 11,
+                    "GC": 9,
+                    "DG": 2,
                     "PTS": 14
                 },
                 "Biavo FC": {
@@ -739,6 +739,24 @@
                     "visitante": "Atlético Andahuaylas",
                     "goles_visitante": 0,
                     "goleadoras_visitante": "",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 8",
+                    "fecha_partido": "11/09/2026",
+                    "hora": "13:00",
+                    "estadio": "Los Chankas",
+                    "local": "Atlético Andahuaylas",
+                    "goles_local": 1,
+                    "goleadoras_local": "Ana Cahuana",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "FBC Melgar",
+                    "goles_visitante": 5,
+                    "goleadoras_visitante": "Raquel Bilcape, Raquel Bilcape, Raquel Bilcape, Raquel Bilcape, María Quintero",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
