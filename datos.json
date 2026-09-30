@@ -98,13 +98,13 @@
                     "PTS": 10
                 },
                 "Flamengo FBC": {
-                    "PJ": 9,
+                    "PJ": 10,
                     "PG": 2,
                     "PE": 1,
-                    "PP": 6,
+                    "PP": 7,
                     "GF": 8,
-                    "GC": 19,
-                    "DG": -11,
+                    "GC": 20,
+                    "DG": -12,
                     "PTS": 7
                 },
                 "Club UNSAAC": {
@@ -138,14 +138,14 @@
                     "PTS": 6
                 },
                 "FC Killas": {
-                    "PJ": 9,
-                    "PG": 3,
+                    "PJ": 10,
+                    "PG": 4,
                     "PE": 0,
                     "PP": 6,
-                    "GF": 7,
+                    "GF": 8,
                     "GC": 20,
-                    "DG": -13,
-                    "PTS": 9
+                    "DG": -12,
+                    "PTS": 12
                 },
                 "Atlético Andahuaylas": {
                     "PJ": 9,
@@ -919,6 +919,24 @@
                     "visitante": "Alianza Lima",
                     "goles_visitante": 2,
                     "goleadoras_visitante": "Daniela Montoya, Nisa Marquínez",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 6",
+                    "fecha_partido": "25/09/2026",
+                    "hora": "10:30",
+                    "estadio": "La Molina",
+                    "local": "FC Killas",
+                    "goles_local": 1,
+                    "goleadoras_local": "Luisana Pastrano",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "Flamengo FBC",
+                    "goles_visitante": 0,
+                    "goleadoras_visitante": "",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
