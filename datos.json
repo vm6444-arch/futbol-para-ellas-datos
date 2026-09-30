@@ -68,14 +68,14 @@
                     "PTS": 24
                 },
                 "Sporting Cristal": {
-                    "PJ": 8,
-                    "PG": 6,
+                    "PJ": 9,
+                    "PG": 7,
                     "PE": 0,
                     "PP": 2,
-                    "GF": 22,
-                    "GC": 7,
-                    "DG": 15,
-                    "PTS": 18
+                    "GF": 24,
+                    "GC": 8,
+                    "DG": 16,
+                    "PTS": 21
                 },
                 "FBC Melgar": {
                     "PJ": 8,
@@ -88,13 +88,13 @@
                     "PTS": 18
                 },
                 "Carlos A. Mannucci": {
-                    "PJ": 7,
+                    "PJ": 8,
                     "PG": 3,
                     "PE": 1,
-                    "PP": 3,
-                    "GF": 9,
-                    "GC": 24,
-                    "DG": -15,
+                    "PP": 4,
+                    "GF": 10,
+                    "GC": 26,
+                    "DG": -16,
                     "PTS": 10
                 },
                 "Flamengo FBC": {
@@ -793,6 +793,24 @@
                     "visitante": "CD Yanapuma",
                     "goles_visitante": 1,
                     "goleadoras_visitante": "Daniela Carrillo",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 8",
+                    "fecha_partido": "13/09/2026",
+                    "hora": "13:00",
+                    "estadio": "Municipal de Huanchaco",
+                    "local": "Carlos A. Mannucci",
+                    "goles_local": 1,
+                    "goleadoras_local": "Norma Mendivelso",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "Sporting Cristal",
+                    "goles_visitante": 2,
+                    "goleadoras_visitante": "Tamara Alves, Rubí Acosta",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
