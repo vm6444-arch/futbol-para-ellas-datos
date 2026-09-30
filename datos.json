@@ -98,23 +98,23 @@
                     "PTS": 10
                 },
                 "Flamengo FBC": {
-                    "PJ": 8,
-                    "PG": 1,
-                    "PE": 1,
-                    "PP": 6,
-                    "GF": 7,
-                    "GC": 19,
-                    "DG": -12,
-                    "PTS": 4
-                },
-                "Club UNSAAC": {
-                    "PJ": 8,
-                    "PG": 1,
+                    "PJ": 9,
+                    "PG": 2,
                     "PE": 1,
                     "PP": 6,
                     "GF": 8,
-                    "GC": 16,
-                    "DG": -8,
+                    "GC": 19,
+                    "DG": -11,
+                    "PTS": 7
+                },
+                "Club UNSAAC": {
+                    "PJ": 9,
+                    "PG": 1,
+                    "PE": 1,
+                    "PP": 7,
+                    "GF": 8,
+                    "GC": 17,
+                    "DG": -9,
                     "PTS": 4
                 },
                 "Defensores del Ilucán": {
@@ -847,6 +847,24 @@
                     "visitante": "Carlos A. Mannucci",
                     "goles_visitante": 1,
                     "goleadoras_visitante": "Azucena Daga",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 10",
+                    "fecha_partido": "19/09/2026",
+                    "hora": "13:00",
+                    "estadio": "IPD Huancayo",
+                    "local": "Flamengo FBC",
+                    "goles_local": 1,
+                    "goleadoras_local": "Rubelys Perea",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "Club UNSAAC",
+                    "goles_visitante": 0,
+                    "goleadoras_visitante": "",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
