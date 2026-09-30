@@ -128,14 +128,14 @@
                     "PTS": 6
                 },
                 "CD Yanapuma": {
-                    "PJ": 8,
-                    "PG": 1,
+                    "PJ": 9,
+                    "PG": 2,
                     "PE": 0,
                     "PP": 7,
-                    "GF": 9,
-                    "GC": 32,
-                    "DG": -23,
-                    "PTS": 3
+                    "GF": 12,
+                    "GC": 33,
+                    "DG": -21,
+                    "PTS": 6
                 },
                 "FC Killas": {
                     "PJ": 9,
@@ -148,13 +148,13 @@
                     "PTS": 9
                 },
                 "Atlético Andahuaylas": {
-                    "PJ": 8,
+                    "PJ": 9,
                     "PG": 4,
                     "PE": 2,
-                    "PP": 2,
-                    "GF": 11,
-                    "GC": 9,
-                    "DG": 2,
+                    "PP": 3,
+                    "GF": 12,
+                    "GC": 12,
+                    "DG": 0,
                     "PTS": 14
                 },
                 "Biavo FC": {
@@ -883,6 +883,24 @@
                     "visitante": "FC Killas",
                     "goles_visitante": 0,
                     "goleadoras_visitante": "",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 6",
+                    "fecha_partido": "20/09/2026",
+                    "hora": "10:00",
+                    "estadio": "Carlos Vidaurre",
+                    "local": "CD Yanapuma",
+                    "goles_local": 3,
+                    "goleadoras_local": "Sabrina Ramírez, Zulianita Vela, Bertha Cornejo",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "Atlético Andahuaylas",
+                    "goles_visitante": 1,
+                    "goleadoras_visitante": "Ana Cahuana",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
