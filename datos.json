@@ -48,14 +48,14 @@
         "Liga Femenina Clausura 2026": {
             "equipos": {
                 "Universitario": {
-                    "PJ": 9,
-                    "PG": 7,
+                    "PJ": 10,
+                    "PG": 8,
                     "PE": 1,
                     "PP": 1,
-                    "GF": 43,
-                    "GC": 7,
-                    "DG": 36,
-                    "PTS": 22
+                    "GF": 48,
+                    "GC": 9,
+                    "DG": 39,
+                    "PTS": 25
                 },
                 "Alianza Lima": {
                     "PJ": 9,
@@ -108,13 +108,13 @@
                     "PTS": 7
                 },
                 "Club UNSAAC": {
-                    "PJ": 9,
+                    "PJ": 10,
                     "PG": 1,
                     "PE": 1,
-                    "PP": 7,
-                    "GF": 8,
-                    "GC": 17,
-                    "DG": -9,
+                    "PP": 8,
+                    "GF": 10,
+                    "GC": 22,
+                    "DG": -12,
                     "PTS": 4
                 },
                 "Defensores del Ilucán": {
@@ -955,6 +955,24 @@
                     "visitante": "Defensores del Ilucán",
                     "goles_visitante": 0,
                     "goleadoras_visitante": "",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 11",
+                    "fecha_partido": "26/09/2026",
+                    "hora": "15:15",
+                    "estadio": "Inca Garcilaso de la Vega",
+                    "local": "Club UNSAAC",
+                    "goles_local": 2,
+                    "goleadoras_local": "Ruth Ccala, Ruth Ccala",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "Universitario",
+                    "goles_visitante": 5,
+                    "goleadoras_visitante": "Pierina Núñez, Pierina Núñez, Sofía Oxandabarat, Sofía Oxandabarat, Alesia García",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
