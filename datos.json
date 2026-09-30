@@ -108,14 +108,14 @@
                     "PTS": 4
                 },
                 "Club UNSAAC": {
-                    "PJ": 7,
-                    "PG": 0,
+                    "PJ": 8,
+                    "PG": 1,
                     "PE": 1,
                     "PP": 6,
-                    "GF": 4,
-                    "GC": 15,
-                    "DG": -11,
-                    "PTS": 1
+                    "GF": 8,
+                    "GC": 16,
+                    "DG": -8,
+                    "PTS": 4
                 },
                 "Defensores del Ilucán": {
                     "PJ": 9,
@@ -128,13 +128,13 @@
                     "PTS": 6
                 },
                 "CD Yanapuma": {
-                    "PJ": 7,
+                    "PJ": 8,
                     "PG": 1,
                     "PE": 0,
-                    "PP": 6,
-                    "GF": 8,
-                    "GC": 28,
-                    "DG": -20,
+                    "PP": 7,
+                    "GF": 9,
+                    "GC": 32,
+                    "DG": -23,
                     "PTS": 3
                 },
                 "FC Killas": {
@@ -775,6 +775,24 @@
                     "visitante": "Defensores del Ilucán",
                     "goles_visitante": 1,
                     "goleadoras_visitante": "Birna Silva",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 8",
+                    "fecha_partido": "12/08/2026",
+                    "hora": "13:00",
+                    "estadio": "Alberto Díaz ANTA",
+                    "local": "Club UNSAAC",
+                    "goles_local": 4,
+                    "goleadoras_local": "Nidia Ubaldo, Ruth Ccala, Preity Herrera, Ana Guillén",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "CD Yanapuma",
+                    "goles_visitante": 1,
+                    "goleadoras_visitante": "Daniela Carrillo",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
