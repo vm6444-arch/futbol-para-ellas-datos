@@ -88,14 +88,14 @@
                     "PTS": 21
                 },
                 "Carlos A. Mannucci": {
-                    "PJ": 11,
-                    "PG": 5,
+                    "PJ": 10,
+                    "PG": 4,
                     "PE": 1,
                     "PP": 5,
-                    "GF": 19,
-                    "GC": 32,
-                    "DG": -13,
-                    "PTS": 16
+                    "GF": 15,
+                    "GC": 30,
+                    "DG": -15,
+                    "PTS": 13
                 },
                 "Flamengo FBC": {
                     "PJ": 10,
@@ -128,13 +128,13 @@
                     "PTS": 6
                 },
                 "CD Yanapuma": {
-                    "PJ": 11,
+                    "PJ": 10,
                     "PG": 2,
                     "PE": 0,
-                    "PP": 9,
-                    "GF": 16,
-                    "GC": 41,
-                    "DG": -25,
+                    "PP": 8,
+                    "GF": 14,
+                    "GC": 37,
+                    "DG": -23,
                     "PTS": 6
                 },
                 "FC Killas": {
@@ -973,24 +973,6 @@
                     "visitante": "Universitario",
                     "goles_visitante": 5,
                     "goleadoras_visitante": "Pierina Núñez, Pierina Núñez, Sofía Oxandabarat, Sofía Oxandabarat, Alesia García",
-                    "asistencias_visitante": "",
-                    "amarillas_visitante": "",
-                    "rojas_visitante": ""
-                },
-                {
-                    "fecha_torneo": "Fecha 11",
-                    "fecha_partido": "26/09/2026",
-                    "hora": "15:15",
-                    "estadio": "",
-                    "local": "Carlos A. Mannucci",
-                    "goles_local": 4,
-                    "goleadoras_local": "Yelitza Toledo, Norma Mendivelso, Norma Mendivelso, Yaritza Lárez,",
-                    "asistencias_local": "",
-                    "amarillas_local": "",
-                    "rojas_local": "",
-                    "visitante": "CD Yanapuma",
-                    "goles_visitante": 2,
-                    "goleadoras_visitante": "Daniela Carrillo, Sabrina Ramírez",
                     "asistencias_visitante": "",
                     "amarillas_visitante": "",
                     "rojas_visitante": ""
