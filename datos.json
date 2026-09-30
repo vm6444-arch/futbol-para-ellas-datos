@@ -118,13 +118,13 @@
                     "PTS": 4
                 },
                 "Defensores del Ilucán": {
-                    "PJ": 9,
+                    "PJ": 10,
                     "PG": 2,
                     "PE": 0,
-                    "PP": 7,
+                    "PP": 8,
                     "GF": 8,
-                    "GC": 36,
-                    "DG": -28,
+                    "GC": 39,
+                    "DG": -31,
                     "PTS": 6
                 },
                 "CD Yanapuma": {
@@ -148,14 +148,14 @@
                     "PTS": 12
                 },
                 "Atlético Andahuaylas": {
-                    "PJ": 9,
-                    "PG": 4,
+                    "PJ": 10,
+                    "PG": 5,
                     "PE": 2,
                     "PP": 3,
-                    "GF": 12,
+                    "GF": 15,
                     "GC": 12,
-                    "DG": 0,
-                    "PTS": 14
+                    "DG": 3,
+                    "PTS": 17
                 },
                 "Biavo FC": {
                     "PJ": 0,
@@ -935,6 +935,24 @@
                     "amarillas_local": "",
                     "rojas_local": "",
                     "visitante": "Flamengo FBC",
+                    "goles_visitante": 0,
+                    "goleadoras_visitante": "",
+                    "asistencias_visitante": "",
+                    "amarillas_visitante": "",
+                    "rojas_visitante": ""
+                },
+                {
+                    "fecha_torneo": "Fecha 11",
+                    "fecha_partido": "26/09/2026",
+                    "hora": "13:00",
+                    "estadio": "Los Chankas",
+                    "local": "Atlético Andahuaylas",
+                    "goles_local": 3,
+                    "goleadoras_local": "Mariasil Tacuri, Johana López, Andrea Murillo",
+                    "asistencias_local": "",
+                    "amarillas_local": "",
+                    "rojas_local": "",
+                    "visitante": "Defensores del Ilucán",
                     "goles_visitante": 0,
                     "goleadoras_visitante": "",
                     "asistencias_visitante": "",
